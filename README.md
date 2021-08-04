@@ -7,6 +7,7 @@
 # 365 Days of Online Abuse
 
 **The Inner Join Story**: https://innerjoin.bit.io/365-days-of-online-abuse-8a88855bb1a6
+**The Code Caviar Story**: https://www.bingyune.com/blog/abusive-language-2020
 
 ## Project Overview
 
